@@ -1,3 +1,6 @@
+# Objective of Exploration
+I wanted to learn about a Javascript Framework known as EmberJS. Reading the documentation I wanted decided to understand how it worked by following the guide the have that represents essentially their "Hello World!" 
+
 # super-rentals
 
 This README outlines the details of collaborating on this Ember application.
